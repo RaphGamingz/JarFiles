@@ -1,0 +1,64 @@
+0.1.0 - ALPHA - DodgeCube
+► Added Game
+0.1.1
+► Fixed some offset text
+0.2.0
+► Added more levels (24 levels)
+► Added walls
+0.2.1
+► Added a version number on the window
+► Added a logging system
+► Added an instant kill (esc) button
+0.3.0
+► Added gravity
+► Added more levels (32 levels)
+0.3.1
+► Made resources in res/dodgecube to make 
+folders cleaner for more files in the future
+► Sorted java files into packages
+0.3.2
+► Added percentage to health bar
+► Added regeneration to shop
+► Added update support
+► Fixed bug which keeps upgrades and level when you die
+
+------------------------------------
+
+0.1.0 - APLHA - Platformer
+► Added Game
+0.1.1
+► Fixed some bugs
+0.2.0
+► Fixed bug when you finish all levels
+► Made resources in res/platformer to make folders 
+cleaner for more files in the future(Not needed for now)
+► Added Logging system
+► Added data folder
+► Added json support
+► Now you can generate worlds with json
+► World image files can be generated into json
+► Files can be edited to create custom maps
+► Files can be shared
+
+------------------------------------
+
+1.0 - ALPHA - GameLauncher
+► Added file
+1.1
+► Improved UI
+► Added side buttons
+► Added update log
+1.2 - BETA
+► Added scrolling to update panel
+► Now in BETA
+1.3
+► Improved UI of scroll bar
+2.0 - OFFICAL RELEASE
+► Added auto updating to newer versions
+► Works offline
+2.1
+► Added updating to DodgeCube
+► Records DodgeCube version
+► Removed the option to open its jar file inside itself
+► Changes run.command file when launcher is updated to
+run the new launcher
