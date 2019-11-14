@@ -62,3 +62,6 @@ cleaner for more files in the future(Not needed for now)
 ► Removed the option to open its jar file inside itself
 ► Changes run.command file when launcher is updated to
 run the new launcher
+2.2 - NOT RELEASED
+► Fixed bug of removing the option to open its jar file inside itself
+Game.jar woudl be removed because game was a word in gamelauncher
