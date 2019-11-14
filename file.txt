@@ -64,5 +64,6 @@ cleaner for more files in the future(Not needed for now)
 run the new launcher
 2.2 - NOT RELEASED
 ► Updates update file for new updates
-► Fixed bug of removing the option to open its jar file inside itself
-Game.jar woudld be removed because game was a word in gamelauncher
+► Fixed bug of removing the option to open its jar file 
+inside itself Game.jar woudld be removed because game 
+was a word in gamelauncher
