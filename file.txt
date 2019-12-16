@@ -50,7 +50,7 @@ cleaner for more files in the future(Not needed for now)
 Not Released - Java3DGameEngine
 ► Added the first 3D game made in Java by RaphGamingz
 ► Particles - Key: P
-► Building - RightClick
+► Building - Key: Space
 ► Water - Reflections
 ► Lights - closest 3 lights and sun
 
