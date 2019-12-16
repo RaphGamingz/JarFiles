@@ -47,6 +47,13 @@ cleaner for more files in the future(Not needed for now)
 
 ------------------------------------
 
+Not Released - Java3DGameEngine
+► Added the first 3D game made in Java by RaphGamingz
+► Particles - Key: P
+► Building - RightClick
+► Water - Reflections
+► Lights - closest 3 lights and sun
+
 1.0 - ALPHA - GameLauncher
 ► Added file
 1.1
@@ -67,8 +74,11 @@ cleaner for more files in the future(Not needed for now)
 ► Removed the option to open its jar file inside itself
 ► Changes run.command file when launcher is updated to
 run the new launcher
-2.2 - NOT RELEASED
+2.2
 ► Updates update file for new updates
 ► Fixed bug of removing the option to open its jar file 
 inside itself Game.jar woudld be removed because game 
 was a word in gamelauncher
+2.3
+► Added downloads panel
+► Improved code of controlling panels
