@@ -54,6 +54,8 @@ Not Released - Java3DGameEngine
 ► Water - Reflections
 ► Lights - closest 3 lights and sun
 
+------------------------------------
+
 1.0 - ALPHA - GameLauncher
 ► Added file
 1.1
