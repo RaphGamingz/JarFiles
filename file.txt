@@ -27,6 +27,13 @@ folders cleaner for more files in the future
 ► The shield gets bigger when it is not broken and the player has 100 health
 ► Fixed bug which makes the score set to zero when the game ends
 
+0.4.1
+► Made shield orbit around player
+► Added shield upgrades
+► Max shield is 10
+► Added UI updates
+► Made Jar file smaller
+
 ------------------------------------
 
 0.1.0 - APLHA - Platformer
