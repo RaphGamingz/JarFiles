@@ -91,3 +91,5 @@ was a word in gamelauncher
 2.3
 ► Added downloads panel
 ► Improved code of controlling panels
+3.0
+► Added chat program
