@@ -33,6 +33,8 @@ folders cleaner for more files in the future
 ► Max shield is 10
 ► Added UI updates
 ► Made Jar file smaller
+0.4.3
+► Repackaged Jar file in java 11
 
 ------------------------------------
 
